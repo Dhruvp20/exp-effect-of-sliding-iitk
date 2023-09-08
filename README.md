@@ -10,11 +10,11 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dhruv Panth 
 :--|:--|
-<b> Institute | <b>  
+<b> Institute | <b>  Rajkiya Engineering college Banda
 <b> Email id|     <b>  
-<b> Department |  
+<b> Department |  Information Technology
 
 ### Contributors List
 
