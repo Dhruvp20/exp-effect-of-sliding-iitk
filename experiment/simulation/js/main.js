@@ -219,7 +219,7 @@ const moveButton9 = document.getElementById('moveButton9');
 
 // Function to start the animation
 function startAnimation() {
-   intervalId = setInterval(showNextImage, 0.1); // Change the interval as needed (in milliseconds)
+   intervalId = setInterval(showNextImage, 0.001); // Change the interval as needed (in milliseconds)
 }
 
 // Function to stop the animation after 5 seconds
