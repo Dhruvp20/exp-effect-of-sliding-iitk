@@ -186,7 +186,7 @@ var flag_material2=false;
 
 // Function to start the animation
 function startAnimation() {
-    intervalId = setInterval(showNextImage, 0); // Change the interval as needed (in milliseconds)
+    intervalId = setInterval(showNextImage, 0.1); // Change the interval as needed (in milliseconds)
 }
 
 // Function to stop the animation after 5 seconds
